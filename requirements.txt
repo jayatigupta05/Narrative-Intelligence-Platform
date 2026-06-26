@@ -1,0 +1,5 @@
+praw
+newsapi-python
+pymongo
+apscheduler
+python-dotenv
