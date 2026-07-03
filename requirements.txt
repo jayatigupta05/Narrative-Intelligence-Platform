@@ -3,3 +3,6 @@ newsapi-python
 pymongo
 apscheduler
 python-dotenv
+feedparser
+sentence_transformers
+numpy
